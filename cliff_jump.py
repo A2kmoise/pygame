@@ -114,7 +114,7 @@ def play_game_over_music():
 		pass
 
 screen = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
-pygame.display.set_caption("Jumping aviator")
+pygame.display.set_caption("Squid game")
 clock = pygame.time.Clock()
 font_large = pygame.font.SysFont(None, 48)
 font_small = pygame.font.SysFont(None, 28)
